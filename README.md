@@ -1,6 +1,4 @@
-# Nombre del Proyecto
-
-Descripción breve del proyecto o aplicación.
+# RetoApptelink
 
 ## Elección de Tecnología
 
